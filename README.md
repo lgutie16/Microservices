@@ -3,13 +3,13 @@
 
 	Concept of modular design is when there is different context defined and in each context there is microservices
 
-	### BENEFITS
+### BENEFITS
 	No IT dependency (technology side)
 	Very fast developments and error correction and risk is less (Bussines side)
 	Increase productivity
 
 
-	### HOW DO WE GET THERE?
+### HOW DO WE GET THERE?
 	Is good to start with monolothic programs (The Clean Architecture - The onion architecture)	done with good interfaces and architecture.
 
 	After, when One starts to detect certain beheavior in the app, for example:
