@@ -1,0 +1,21 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-upload": "micro Service-Upload.js -p 3000",
+    "start-preview": "micro Service-Preview.js -p 3001",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "instagram_js_filter": "^1.4.0",
+    "is-image": "^1.0.1",
+    "micro": "^7.3.2",
+    "micro-upload": "^1.0.0",
+    "mime-type": "^3.0.4",
+    "uuid": "^3.0.1"
+  }
+}
