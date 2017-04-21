@@ -1,5 +1,5 @@
 ## Technical Overview
-Micro is a tool to work with microservices using _#async#_ and _#await#_
+Micro is a tool to work with microservices using _async_ and _await_
 
 ## Folder Structure
 
@@ -33,5 +33,5 @@ curl -d "@image.ext" -X POST http://localhost:3000/               [Clone the pro
 ``` 
 
 # LICENCE
-#MIT#
- 
+MIT
+
